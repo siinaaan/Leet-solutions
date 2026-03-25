@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/siinaaan/Leet-solutions/tree/master/3467-transform-array-by-parity) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/siinaaan/Leet-solutions/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/siinaaan/Leet-solutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
