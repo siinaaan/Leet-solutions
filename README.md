@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2798-number-of-employees-who-met-the-target](https://github.com/siinaaan/Leet-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/siinaaan/Leet-solutions/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/siinaaan/Leet-solutions/tree/master/3467-transform-array-by-parity) |
 ## Sorting
