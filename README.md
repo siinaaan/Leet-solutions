@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2974-minimum-number-game](https://github.com/siinaaan/Leet-solutions/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/siinaaan/Leet-solutions/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
+| [2974-minimum-number-game](https://github.com/siinaaan/Leet-solutions/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/siinaaan/Leet-solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/siinaaan/Leet-solutions/tree/master/0412-fizz-buzz) |
+| [2974-minimum-number-game](https://github.com/siinaaan/Leet-solutions/tree/master/2974-minimum-number-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -40,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/siinaaan/Leet-solutions/tree/master/2427-number-of-common-factors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/siinaaan/Leet-solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
