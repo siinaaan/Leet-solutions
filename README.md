@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/siinaaan/Leet-solutions/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/siinaaan/Leet-solutions/tree/master/0412-fizz-buzz) |
 | [2427-number-of-common-factors](https://github.com/siinaaan/Leet-solutions/tree/master/2427-number-of-common-factors) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/siinaaan/Leet-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
 | ------- |
