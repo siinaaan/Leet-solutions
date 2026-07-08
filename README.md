@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/siinaaan/Leet-solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/siinaaan/Leet-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/siinaaan/Leet-solutions/tree/master/0412-fizz-buzz) |
 | [2427-number-of-common-factors](https://github.com/siinaaan/Leet-solutions/tree/master/2427-number-of-common-factors) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/siinaaan/Leet-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/siinaaan/Leet-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/siinaaan/Leet-solutions/tree/master/0412-fizz-buzz) |
 | [2974-minimum-number-game](https://github.com/siinaaan/Leet-solutions/tree/master/2974-minimum-number-game) |
 ## Enumeration
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/siinaaan/Leet-solutions/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/siinaaan/Leet-solutions/tree/master/2427-number-of-common-factors) |
 ## Heap (Priority Queue)
 |  |
