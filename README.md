@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2798-number-of-employees-who-met-the-target](https://github.com/siinaaan/Leet-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/siinaaan/Leet-solutions/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/siinaaan/Leet-solutions/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/siinaaan/Leet-solutions/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/siinaaan/Leet-solutions/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/siinaaan/Leet-solutions/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/siinaaan/Leet-solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/siinaaan/Leet-solutions/tree/master/0412-fizz-buzz) |
 | [2427-number-of-common-factors](https://github.com/siinaaan/Leet-solutions/tree/master/2427-number-of-common-factors) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/siinaaan/Leet-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/siinaaan/Leet-solutions/tree/master/3024-type-of-triangle) |
 | [3894-traffic-signal-color](https://github.com/siinaaan/Leet-solutions/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
