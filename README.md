@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/siinaaan/Leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/siinaaan/Leet-solutions/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/siinaaan/Leet-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/siinaaan/Leet-solutions/tree/master/2974-minimum-number-game) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/siinaaan/Leet-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/siinaaan/Leet-solutions/tree/master/0412-fizz-buzz) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/siinaaan/Leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3894-traffic-signal-color](https://github.com/siinaaan/Leet-solutions/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
