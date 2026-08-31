@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siinaaan/Leet-solutions/tree/master/0001-two-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/siinaaan/Leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/siinaaan/Leet-solutions/tree/master/1929-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/siinaaan/Leet-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/siinaaan/Leet-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/siinaaan/Leet-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
