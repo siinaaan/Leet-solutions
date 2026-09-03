@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/siinaaan/Leet-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/siinaaan/Leet-solutions/tree/master/3024-type-of-triangle) |
 | [3894-traffic-signal-color](https://github.com/siinaaan/Leet-solutions/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/siinaaan/Leet-solutions/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
@@ -99,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siinaaan/Leet-solutions/tree/master/0001-two-sum) |
+| [3945-digit-frequency-score](https://github.com/siinaaan/Leet-solutions/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
