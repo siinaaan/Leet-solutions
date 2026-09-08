@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siinaaan/Leet-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/siinaaan/Leet-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/siinaaan/Leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/siinaaan/Leet-solutions/tree/master/1929-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/siinaaan/Leet-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/siinaaan/Leet-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/siinaaan/Leet-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
