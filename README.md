@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siinaaan/Leet-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/siinaaan/Leet-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siinaaan/Leet-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/siinaaan/Leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/siinaaan/Leet-solutions/tree/master/1929-concatenation-of-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/siinaaan/Leet-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/siinaaan/Leet-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/siinaaan/Leet-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/siinaaan/Leet-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/siinaaan/Leet-solutions/tree/master/0657-robot-return-to-origin) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/siinaaan/Leet-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/siinaaan/Leet-solutions/tree/master/0013-roman-to-integer) |
 | [3945-digit-frequency-score](https://github.com/siinaaan/Leet-solutions/tree/master/3945-digit-frequency-score) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/siinaaan/Leet-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
