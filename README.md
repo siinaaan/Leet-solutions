@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/siinaaan/Leet-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/siinaaan/Leet-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/siinaaan/Leet-solutions/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siinaaan/Leet-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/siinaaan/Leet-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/siinaaan/Leet-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/siinaaan/Leet-solutions/tree/master/2427-number-of-common-factors) |
