@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/siinaaan/Leet-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siinaaan/Leet-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/siinaaan/Leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/siinaaan/Leet-solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/siinaaan/Leet-solutions/tree/master/1929-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/siinaaan/Leet-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/siinaaan/Leet-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/siinaaan/Leet-solutions/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/siinaaan/Leet-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/siinaaan/Leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/siinaaan/Leet-solutions/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/siinaaan/Leet-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3894-traffic-signal-color](https://github.com/siinaaan/Leet-solutions/tree/master/3894-traffic-signal-color) |
 ## Math
