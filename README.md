@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siinaaan/Leet-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/siinaaan/Leet-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [2000-reverse-prefix-of-word](https://github.com/siinaaan/Leet-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/siinaaan/Leet-solutions/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/siinaaan/Leet-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/siinaaan/Leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2000-reverse-prefix-of-word](https://github.com/siinaaan/Leet-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3894-traffic-signal-color](https://github.com/siinaaan/Leet-solutions/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/siinaaan/Leet-solutions/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/siinaaan/Leet-solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
